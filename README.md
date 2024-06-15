@@ -1,6 +1,6 @@
 # US TOP TECH COMPANIES ANALYSIS  ----PYTHON
 
-**Objective** 
+**Objective:** 
 The objective of this project is to analyze the "Top 50 US Tech Companies 2022-2023" dataset to identify market leaders, evaluate industry representation, and assess financial performance and growth trends. This analysis aims to provide insights into market dynamics and industry trends within the US tech sector. 
 
 ## Overview
